@@ -12,17 +12,17 @@ cd Django-Test
 💾 Project Structure
 ```
 myproject/
-├── api/                     # Your Django app
+├── api/                     
 │   ├── migrations/
 │   ├── models.py
 │   ├── serializers.py
 │   ├── views.py
 │   └── urls.py
-├── myproject/               # Main Django project folder
+├── myproject/               
 │   ├── settings.py
 │   ├── urls.py
 │   └── __init__.py
-├── api_tester.py            # ✅ Your test script
+├── api_tester.py            
 ├── manage.py
 ├── requirements.txt
 ├── README.md
